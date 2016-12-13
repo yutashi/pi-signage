@@ -1,0 +1,12 @@
+{
+  "name": "electronize",
+  "version": "0.1.0",
+  "description": "Webpack + Electron boilerplate with Babel",
+  "main": "main.js",
+  "repository": "https://github.com/vratuy/electronize.git",
+  "author": "vratuy",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.4.12"
+  }
+}
