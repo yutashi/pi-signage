@@ -6,7 +6,8 @@ Currently use Node.js version`6.9.2`.
 
 1. You first need to install [Yarn](https://yarnpkg.com/).
 2. Run install command. `yarn install`
-3. Start app with `yarn start`.
+3. Create a bundle file. `yarn run build`
+4. Start app with `yarn start`.
 
 ## :gift: Technologies
 This boilerplate uses the following technologies.
