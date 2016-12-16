@@ -7,10 +7,16 @@
     "build": "webpack",
     "start": "electron ."
   },
+  "babel": {
+    "presets": ["env"]
+  },
   "repository": "https://github.com/vratuy/electronize.git",
   "author": "vratuy",
   "license": "MIT",
   "devDependencies": {
+    "babel-core": "^6.20.0",
+    "babel-loader": "^6.2.10",
+    "babel-preset-env": "^1.1.1",
     "electron": "^1.4.12",
     "webpack": "^1.14.0"
   }
