@@ -8,7 +8,9 @@
     "start": "electron ."
   },
   "babel": {
-    "presets": ["env"]
+    "presets": [
+      "env"
+    ]
   },
   "repository": "https://github.com/vratuy/electronize.git",
   "author": "vratuy",
@@ -18,6 +20,7 @@
     "babel-loader": "^6.2.10",
     "babel-preset-env": "^1.1.1",
     "electron": "^1.4.12",
+    "html-webpack-plugin": "^2.24.1",
     "webpack": "^1.14.0"
   }
 }
