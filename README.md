@@ -18,3 +18,4 @@ This boilerplate uses the following technologies.
 | Electron     | Cross platform desktop application framework with web technologies. |
 | Babel        | Compiles ES6 to ES5. Enjoy the new version of JavaScript today.     |
 | Webpack      | Bundles packages and our JS into a single file.                     |
+| ESLint       | Reports JavaScript syntax and style issues.                         |
