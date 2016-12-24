@@ -1,2 +1,2 @@
-const root = document.querySelector('#app')
-root.innerHTML = 'Hello World'
+const root = document.querySelector('#app');
+root.innerHTML = 'Hello World';
