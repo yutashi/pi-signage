@@ -7,6 +7,6 @@
   "language":"Node.js",
   "license": "",
   "scripts": {
-    "start": "DISPLAY=:0 npm run build && npm start"
+    "start": "npm start"
   }
 }
