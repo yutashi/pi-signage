@@ -1,0 +1,12 @@
+{
+  "name": "digital-signage",
+  "version": "",
+  "description": "Digital sinage based on Pi and Electron",
+  "main": "main.js",
+  "author": "",
+  "language":"Node.js",
+  "license": "",
+  "scripts": {
+    "start": "npm run build && npm start"
+  }
+}"
